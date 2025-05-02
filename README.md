@@ -10,7 +10,7 @@ pip install requests
 
 # Usage
 
-```
+```python3
 from notisend_api import NotisendApi
 
 api = NotisendApi('Your API KEY here')
