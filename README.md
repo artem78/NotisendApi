@@ -8,6 +8,14 @@ sudo apt-get install python3
 pip install requests
 ```
 
+# Install
+
+From git
+
+```
+pip install git+https://github.com/artem78/NotisendApi.git
+```
+
 # Usage
 
 ```python3
