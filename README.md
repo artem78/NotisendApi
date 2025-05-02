@@ -1,5 +1,5 @@
 # NotisendApi
-Small python module for sending emails with notisend.ru api
+Small python module for sending emails with [notisend.ru](https://app.notisend.ru/mailer) api
 
 # Dependencies
 
