@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+
+from distutils.core import setup
+
 setup(
     name="NotisendApi",
     description='Send mails with notisend.ru API',
