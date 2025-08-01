@@ -4,7 +4,7 @@ Small python module for sending emails with [notisend.ru](https://app.notisend.r
 # Dependencies
 
 ```
-sudo apt-get install python3
+sudo apt-get install python3 python3-pip
 pip install requests
 ```
 
