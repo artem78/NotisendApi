@@ -28,6 +28,7 @@ try:
                    'you@example.com', # To email
                    'Just testing',    # Subject
                    'hellow\nworld!')  # Message body (plain text)
+    print('Successfully sent!')
 except Exception as e:
     print('Failed! - ' + str(e))
 ```
